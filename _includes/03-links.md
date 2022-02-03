@@ -1,1 +1,1 @@
-[Text]https://github.com/Sreyaku8/github-slideshow
+[Text](https://github.com/Sreyaku8/github-slideshow) 
